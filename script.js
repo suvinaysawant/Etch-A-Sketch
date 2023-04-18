@@ -1,4 +1,4 @@
-const DEFAULT_COLOR = '#6666ff'
+const DEFAULT_COLOR = '#333'
 const DEFAULT_MODE = 'color'
 const DEFAULT_SIZE = 16
 
